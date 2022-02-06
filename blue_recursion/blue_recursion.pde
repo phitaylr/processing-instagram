@@ -44,7 +44,7 @@ void draw() {
     inframe=0;
     maxd++;
   }
-  saveFrame("frames/bluerecursion-###.png");
+  saveFrame("frames/bluerecursion-####.png");
 }
 
 void drawBG() {
