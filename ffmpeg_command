@@ -1,0 +1,1 @@
+ffmpeg -r 30 -i %06d.png -c:v libx264 -c:a aac -ar 44100 -pix_fmt yuv420p output.mp4
